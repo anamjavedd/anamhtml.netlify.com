@@ -226,3 +226,7 @@ footer{
         padding-bottom: 40px;
     }
 }
+
+   #boxes .box{
+       width:auto;
+}
